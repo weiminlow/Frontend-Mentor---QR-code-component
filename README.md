@@ -6,4 +6,4 @@
 
 Thanks for checking out my solution on this front-end coding challenge.
 
-It takes some time for me to figure out how to align the component vertically. At the end, I am using bootstrap 5 to build this QR code component.
+It took some time for me to figure out how to align the component in vertical center. At the end, I am able to build this QR code component with bootstrap 5.
